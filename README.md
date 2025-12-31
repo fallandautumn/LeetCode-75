@@ -18,22 +18,22 @@
    - 瞬発力の養成。各問題に対し、計算量（O-notation）と制約条件（Edge Cases）を即時に説明可能なレベルまで習熟度を高める。
 
 ## 📊 Status & Technical Background
-- **Background:** 統計検定2級合格 (2025/12) 
+- **Background:** 統計検定2級合格 (2025/12/26) 
   - 11月末の目標設定から約2週間の集中学習で、数理統計の基礎概念を習得。
-- **Current Status:** Day 0 / 13
-Progress: Day 1 / 13   (/75 problems completed)
-Progress: Day 2 / 13   (/75 problems completed)
-Progress: Day 3 / 13   (/75 problems completed)
-Progress: Day 4 / 13   (/75 problems completed)
-Progress: Day 5 / 13   (/75 problems completed)
-Progress: Day 6 / 13   (/75 problems completed)
-Progress: Day 7 / 13   (/75 problems completed)
-Progress: Day 8 / 13   (/75 problems completed)
-Progress: Day 9 / 13   (/75 problems completed)
-Progress: Day 10 / 13  (/75 problems completed)
-Progress: Day 11 / 13  (/75 problems completed)
-Progress: Day 12 / 13  (/75 problems completed)
-Progress: Day 13 / 13  (/75 problems completed)
+- **Current Status:** Day 1 / 13
+Progress: Day 1 (2025/12/31) (7/75 problems completed)
+Progress: Day 2    (/75 problems completed)
+Progress: Day 3    (/75 problems completed)
+Progress: Day 4    (/75 problems completed)
+Progress: Day 5    (/75 problems completed)
+Progress: Day 6    (/75 problems completed)
+Progress: Day 7    (/75 problems completed)
+Progress: Day 8    (/75 problems completed)
+Progress: Day 9    (/75 problems completed)
+Progress: Day 10   (/75 problems completed)
+Progress: Day 11   (/75 problems completed)
+Progress: Day 12   (/75 problems completed)
+Progress: Day 13   (/75 problems completed)
 
 - **Next Milestone:** LeetCode-75は1月中旬までに完遂。以降、FastAPIを用いた高度なデータ処理APIの実装フェーズへ移行。
 
