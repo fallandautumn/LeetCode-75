@@ -22,8 +22,8 @@
   - 11月末の目標設定から約2週間の集中学習で、数理統計の基礎概念を習得。
 - **Current Status:** Day 1 / 13
 Progress: Day 1 (2025/12/31) (7/75 problems completed)
-Progress: Day 2    (/75 problems completed)
-Progress: Day 3    (/75 problems completed)
+Progress: Day 2-3(2026/01/01-02)    (15/75 problems completed)
+Note: 正月期間の社会的行事（親戚対応）のため少し遅れ
 Progress: Day 4    (/75 problems completed)
 Progress: Day 5    (/75 problems completed)
 Progress: Day 6    (/75 problems completed)
